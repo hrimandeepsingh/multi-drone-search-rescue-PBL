@@ -144,23 +144,6 @@ When required, the system can re-evaluate the situation and assign another suita
 
 ---
 
-## 📂 Project Structure
-
-```text
-multi-drone-search-rescue/
-│
-├── README.md
-│
-├── Documentation/
-│   ├── Project_Proposal.pdf
-│   └── Project_Proposal_Final.pdf
-│
-└── Source_Code/
-    └── C/C++ source files
-```
-
----
-
 ## 🎯 Project Objectives
 
 1. Develop a simulation for coordinating multiple rescue drones.
