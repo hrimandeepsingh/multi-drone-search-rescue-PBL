@@ -1,6 +1,3 @@
-# app.py
-# Multi-UAV Search & Rescue System - web interface (Flask)
-# Run:  python app.py   then open http://127.0.0.1:5000
 
 import os
 from flask import Flask, render_template, request, redirect, url_for, flash, Response
