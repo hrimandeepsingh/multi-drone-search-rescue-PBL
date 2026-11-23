@@ -26,5 +26,3 @@ Testing results will be documented after the corresponding test cases have been 
 ## Limitations
 The current project is a software simulation. Physical drone deployment and real-world rescue testing are outside the scope of the current implementation.
 
-## Team Contributions
-Team member contributions and responsibilities will be documented as the work progresses.
